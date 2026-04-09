@@ -1,2 +1,2 @@
-# VibeCode
-Vibe Coded Projects 
+# board-of-ai
+Discussion with Multiple AI's at same time
